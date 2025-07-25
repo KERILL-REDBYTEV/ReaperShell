@@ -1,0 +1,15 @@
+# Default Termux ~/.bashrc backup
+
+# Set PATH so it includes user's private bin if it exists
+if [ -d "$HOME/bin" ]; then
+PATH="$HOME/bin:$PATH"
+fi
+
+# Enable colors for common commands
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+
+# Load user-defined additions (used by ReaperShell)
+[ -f ~/.bashrc_append ] && . ~/.bashrc_append

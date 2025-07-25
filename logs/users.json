@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "8c6976e5b5410415bde908bd4dee15dfb16fef1f3c5b0e3f5eab8f3f6a1e0d7e",
+      "role": "superuser"
+    },
+    {
+      "username": "reaper",
+      "password": "4f6fb492fd7a8220093fc7f6b3c3d7f11a339b579c370b237b76ee5f66a3e7b3",
+      "role": "user"
+    }
+  ]
+}
