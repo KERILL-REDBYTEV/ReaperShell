@@ -1,0 +1,17 @@
+# ─── REAPERSHELL AUTO-START ───────────────────────────────
+
+# Check if ReaperShell exists and display banner if it does
+if [ -d "$HOME/ReaperShell" ]; then
+if [ -f "$HOME/ReaperShell/.banner" ]; then
+cat "$HOME/ReaperShell/.banner"
+fi
+
+# Launch ReaperShell only if start.sh exists
+if [ -f "$HOME/ReaperShell/start.sh" ]; then
+bash "$HOME/ReaperShell/start.sh"
+else
+echo "[!] ReaperShell start.sh missing."
+fi
+fi
+
+# ──────────────────────────────────────────────────────────
