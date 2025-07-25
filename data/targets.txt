@@ -1,0 +1,12 @@
+# ReaperShell Target List
+# Format: [TYPE] IP_or_URL Port(optional) Notes(optional)
+# Use this file to store test targets ONLY (e.g., in lab or virtual environment)
+
+# Examples:
+[WEB] 192.168.1.10 80 Internal Apache test server
+[SSH] 192.168.1.12 22 Dev SSH machine
+[FTP] 192.168.1.13 21 Vulnerable FTP testbed
+[DOS] testsite.local 80 Target for DoS (authorized only)
+[WIFI] BSSID:AA:BB:CC:DD:EE:FF CHANNEL:6 Test router
+
+# Add your targets below

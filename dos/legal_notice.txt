@@ -1,0 +1,31 @@
+============================================================
+LEGAL DISCLAIMER - ReaperShell
+============================================================
+
+This software is designed for educational and authorized
+penetration testing purposes only.
+
+Any actions and/or activities related to this tool are
+the sole responsibility of the user. The developers,
+creators, and contributors of ReaperShell do NOT accept
+any liability for misuse or damage caused by this software.
+
+By using this tool, you agree to the following:
+
+1. You will only use ReaperShell in environments you own or
+are explicitly authorized to test.
+
+2. You will not use this tool to harm, damage, disrupt,
+or interfere with any system, network, or individual.
+
+3. You understand that performing denial-of-service
+(DoS) attacks without consent is ILLEGAL and can
+result in criminal charges.
+
+4. This software is provided "as-is" without any guarantees.
+
+If you do not agree to these terms, do not use ReaperShell.
+
+============================================================
+Project Creator: KERILL-REDBYTEV
+============================================================
